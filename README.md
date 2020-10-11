@@ -1,2 +1,2 @@
 # React-Native_Sample
-Sample React Native Projects
+Simple React Native Projects to Learn React Native
